@@ -1,5 +1,8 @@
+<h1>👨🏻‍💻 Rodolfo Oliveira</h1>
 
-### Olá! menu nome é Rodolfo Oliveira 🙋🏻‍♂️
+<hd>
+
+<button style="border-radius: 10px; background-color: green; color: white; border:none">Desenvolvedor FullStack</button>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/orodolfoso)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orodolfoso)
@@ -21,3 +24,4 @@
 <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
+
