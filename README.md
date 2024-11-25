@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ### Olá! menu nome é Rodolfo Oliveira 🙋🏻‍♂️
 
