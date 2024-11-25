@@ -8,11 +8,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/orodolfoso)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@orodolfoso)
 
-![Rodolfo Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=orodolfodev&show_icons=true&theme=merko)
+![Rodolfo Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=orodolfoso&show_icons=true&theme=merko)
 
 ### Tecnologias usadas no meu dia
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orodolfodev&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orodolfoso&langs_count=8)
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
