@@ -55,6 +55,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** com foco total e
 ### 🐍 GitHub Snake Game
 
 <p align="center">
-  <img src="https://githubusercontent.com" alt="GitHub Snake" />
+  <img src="https://github.com" alt="GitHub Snake" />
 </p>
+
 
