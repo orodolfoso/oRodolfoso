@@ -47,14 +47,6 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** com foco total e
 ![](https://streak-stats.demolab.com/?user=orodolfoso&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=orodolfoso&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-### 🐍 GitHub Snake Game
-
-![GitHub Snake](https://githubusercontent.com)
 
 
 
