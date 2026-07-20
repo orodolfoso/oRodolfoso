@@ -38,9 +38,3 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** com foco total e
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-### 🕹️ Histórico de Atividade (Modo Arcade)
-
-<p align="center">
-  <img src="https://imgur.com" alt="Pacman Animation" width="100%"/>
-</p>
-
