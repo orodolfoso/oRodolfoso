@@ -14,13 +14,17 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** com foco total e
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Métricas do GitHub
 
-<p align="left">
-  <img src="https://herokuapp.com" alt="GitHub Streak Stats" height="180px"/>
+
+* **Principais Tecnologias do Repositório:**
   
-  <img src="https://vercel.app" alt="Linguagens Mais Usadas" height="180px"/>
-</p>
+  ![Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 
 
 
@@ -36,3 +40,10 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** com foco total e
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
+### 🕹️ Histórico de Atividade (Estilo Arcade)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="GitHub Insertion Snake" src="https://githubusercontent.com">
+</picture>
