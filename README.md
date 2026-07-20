@@ -19,11 +19,13 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** com foco total e
 
 * **Principais Tecnologias do Repositório:**
   
-  ![Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-557C94?style=for-the-badge&logo=linux&logoColor=white)
   ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
 
 
 
@@ -37,4 +39,22 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** com foco total e
 <a href="https://instagram.com/orodolfoso" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
+
+<br><br>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=orodolfoso&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=orodolfoso&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=orodolfoso&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+### 🐍 GitHub Snake Game
+
+<p align="center">
+  <img src="https://githubusercontent.com" alt="GitHub Snake" />
+</p>
 
